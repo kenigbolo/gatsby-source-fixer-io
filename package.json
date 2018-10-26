@@ -1,0 +1,35 @@
+{
+  "name": "gatsby-source-fixer-io",
+  "version": "0.1.0",
+  "description": "A gatsby source plugin for fixer-io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenigbolo/gatsby-source-fixer-io.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "fixer.io",
+    "currency",
+    "gatsby fixer io plugin",
+    "money converter",
+    "currency converter",
+    "fx",
+    "forex",
+    "currency exchange"
+  ],
+  "author": "Kenigbolo Meya Stephen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenigbolo/gatsby-source-fixer-io/issues"
+  },
+  "homepage": "https://github.com/kenigbolo/gatsby-source-fixer-io#readme",
+  "dependencies": {
+    "fixer-io-utility": "^1.0.1"
+  }
+}
